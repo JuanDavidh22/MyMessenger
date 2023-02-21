@@ -13,7 +13,6 @@ public class CreateMessageActivity extends AppCompatActivity {
     public static final String EXTRA_MESSAGE = "message";
 
     public String historialMensajes = "";
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
